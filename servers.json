@@ -1,16 +1,17 @@
 {
+  "qtd": 3,
   "servers": [
     {
       "name": "Alpha-BR",
-      "address": "192.168.1.2",
+      "address": "192.168.1.2"
     },
     {
       "name": "Beta-US",
-      "address": "mc.alpha-host.com",
+      "address": "mc.alpha-host.com"
     },
     {
       "name": "Gama-ESP",
-      "address": "node3.gameserver.io",
+      "address": "node3.gameserver.io"
     }
   ]
 }
