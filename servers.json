@@ -1,7 +1,16 @@
 {
-  "servers": {
-    "1": "192.168.1.2",
-    "2": "mc.alpha-host.com",
-    "3": "node3.gameserver.io"
-  }
+  "servers": [
+    {
+      "name": "Alpha-BR",
+      "address": "192.168.1.2"
+    },
+    {
+      "name": "Beta-US",
+      "address": "mc.alpha-host.com"
+    },
+    {
+      "name": "Gama-ESP",
+      "address": "node3.gameserver.io"
+    }
+  ]
 }
