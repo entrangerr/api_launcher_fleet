@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "main": "play.exemplo.net",
+    "backup": "mc.alpha-host.com",
+    "dev": "node3.gameserver.io"
+  }
+}
