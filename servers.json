@@ -7,16 +7,8 @@
       "online": true
     },
     {
-      "name": "Beta-US",
-      "address": "mc.alpha-host.com",
-      "Country": "United States",
-      "online": false
+      "name": "Arke",
+      "address": "192.168.1.6"
     },
-    {
-      "name": "Gama-ESP",
-      "address": "node3.gameserver.io",
-      "Country": "Argentina",
-      "online": false
-    }
   ]
 }
